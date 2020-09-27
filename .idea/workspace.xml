@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce1d2a39-3a3b-45d8-a542-fdea0a5bfdbf" name="Default Changelist" comment="" />
+    <list default="true" id="ce1d2a39-3a3b-45d8-a542-fdea0a5bfdbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/laravel-echo-server.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/screenshot/chats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/screenshot/contacts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/screenshot/login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/screenshot/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/screenshot/settings.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/chunks/0.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/chunks/1.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/chunks/3.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/chunks/4.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/chunks/5.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/chunks/6.js.gz" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,12 +161,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1hrFCU9pvsekbANjO07Hk04hVXs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -205,12 +223,25 @@
       <workItem from="1601043155717" duration="3366000" />
       <workItem from="1601191779637" duration="1061000" />
       <workItem from="1601192883837" duration="7000" />
-      <workItem from="1601192927795" duration="38000" />
+      <workItem from="1601192927795" duration="1288000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1601193070443</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601193070443</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="591" y="216" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600767669181">
@@ -229,10 +260,10 @@
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
     <state x="729" y="312" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.29.1848.1051@72.29.1848.1051" timestamp="1601030713154" />
-    <state x="535" y="101" width="912" height="911" key="CommitChangelistDialog2" timestamp="1601192835533">
+    <state x="535" y="101" width="912" height="911" key="CommitChangelistDialog2" timestamp="1601193070174">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="535" y="101" width="912" height="911" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1601192835533" />
+    <state x="535" y="101" width="912" height="911" key="CommitChangelistDialog2/72.27.1848.1053@72.27.1848.1053" timestamp="1601193070174" />
     <state x="729" y="469" width="523" height="178" key="ComposerInitDialogKey" timestamp="1600770456225">
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
@@ -261,6 +292,10 @@
       <screen x="72" y="29" width="1848" height="1051" />
     </state>
     <state x="662" y="274" width="657" height="568" key="NewPhpClassDialog/72.29.1848.1051@72.29.1848.1051" timestamp="1600767394629" />
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601193075600">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1601193075600" />
     <state x="687" y="292" width="698" height="594" key="find.popup" timestamp="1601192585510">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
